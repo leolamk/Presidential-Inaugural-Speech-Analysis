@@ -9,7 +9,7 @@ Inauguration speech is a ceremony marking the commencement of a new term of Pres
 Term: Spring 2018
 
 + Projec title: Project 1 - Impact of Political and Educational Backgrounds in the Inauguration Speeches of US Presidents
-+ This project is conducted by [Leo Lam - lkl2129]
++ This project is conducted by [Leo Lam]
 
 + Project summary: [a short summary] In this study, we analyzed the sentence length, word length, emotion, and topic of Presidents with different educational and political backgrounds using LDA topic modeling, Natural Language Processing, and Wordcloud.
 
